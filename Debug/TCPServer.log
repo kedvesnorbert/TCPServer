@@ -1,0 +1,8 @@
+﻿  MyThread.cpp
+F:\EGYETEM\7.felev\Computer Networks\TCPServer\TCPServer\MyThread.cpp(560,23): warning C4018: '<': signed/unsigned mismatch
+F:\EGYETEM\7.felev\Computer Networks\TCPServer\TCPServer\MyThread.cpp(575,23): warning C4018: '<': signed/unsigned mismatch
+F:\EGYETEM\7.felev\Computer Networks\TCPServer\TCPServer\MyThread.cpp(617,23): warning C4018: '<': signed/unsigned mismatch
+F:\EGYETEM\7.felev\Computer Networks\TCPServer\TCPServer\MyThread.cpp(686,23): warning C4018: '<': signed/unsigned mismatch
+F:\EGYETEM\7.felev\Computer Networks\TCPServer\TCPServer\MyThread.cpp(707,23): warning C4018: '<': signed/unsigned mismatch
+F:\EGYETEM\7.felev\Computer Networks\TCPServer\TCPServer\MyThread.cpp(772): warning C4715: 'isFullMessageReceived': not all control paths return a value
+  TCPServer.vcxproj -> F:\EGYETEM\7.felev\Computer Networks\TCPServer\Debug\TCPServer.exe
